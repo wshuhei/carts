@@ -26,6 +26,7 @@ Checkout the API Spec [here](http://microservices-demo.github.io/api/index?url=h
 # Run
 
 `mvn spring-boot:run`
+"実行を行う（加筆部分）"
 
 # Check
 
